@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Навигация</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="fragment_1">Фрагмент 1</string>
+    <string name="fragment_2">Фрагмент 2</string>
+</resources>
